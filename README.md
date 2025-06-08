@@ -1,6 +1,6 @@
 # 🛸 Rick and Morty Characters Table
 
-Rick and Morty API kullanarak hazırlanmış modern karakter tablosu uygulaması.
+Rick and Morty API kullanarak hazırlanmış karakter tablosu uygulaması.
 
 ## 🚀 Ekran Görüntüleri
 ![image](https://github.com/user-attachments/assets/76ad1136-989f-4ea6-a8f5-41d9d1973900)
