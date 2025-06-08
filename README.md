@@ -2,7 +2,7 @@
 
 Rick and Morty API kullanarak hazırlanmış karakter tablosu uygulaması.
 
-## 🚀 Uygulama Linki
+## 🚀 Demo Linki
 https://rick-and-morty-character-table-seyma-costurs-projects.vercel.app/
 
 
