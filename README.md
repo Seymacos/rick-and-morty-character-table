@@ -28,7 +28,7 @@ git clone https://github.com/Seymacos/rick-and-morty-character-table
 cd rick-and-morty-character-table
 npm install
 npm start
-
+```
 ## 📱 Görüntüler
 - Ana tablo: Filtrelenebilir ve sıralanabilir karakter listesi
 - Detay modal: Karakter bilgileri ve bölüm listesi
